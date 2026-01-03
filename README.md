@@ -2,7 +2,7 @@
 
 
 
-A modern \*\*Number Guessing Game\*\* built with \*\*Python \& CustomTkinter\*\*.  
+A modern Number Guessing Game built with Python & CustomTkinter.  
 
 This project demonstrates clean architecture, UI/UX design, game logic separation, and persistent scoring.
 
@@ -26,7 +26,7 @@ This project demonstrates clean architecture, UI/UX design, game logic separatio
 
 \## Preview
 
-!\[App Preview](preview.png)
+!\[App Preview] (preview.png)
 
 
 
