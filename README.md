@@ -21,7 +21,3 @@ This project demonstrates clean architecture, UI/UX design, game logic separatio
 - Tkinter
 - JSON (local storage)
 
-## How to Run
-```bash
-pip install customtkinter
-python number_guessing_game.py
